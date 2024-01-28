@@ -1,0 +1,4 @@
+## TOPSIS, known as Technique for Order of Preference by Similarity to Ideal Solution, is a multi-criteria decision analysis method. It compares a set of alternatives based on a pre-specified criterion. The method is used in the business across various industries, every time we need to make an analytical decision based on collected data.
+
+## What does it really mean?
+Let’s imagine the situation when we want to compare several companies and find out which one has the strongest financials. These companies are our alternatives set. To combine them together and decide which one is the strongest, we need to employ some reliable metrics. In such a case we can use some indicators derived from financial statements like for example ROA (return on assets), ROE (return on equity), DR (debt ratio), or CG (capital gearing). These indicators will form our criteria set.
